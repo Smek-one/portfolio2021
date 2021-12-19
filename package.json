@@ -1,6 +1,5 @@
 {
   "name": "portofolio2021",
-  "homepage":"http://portfolio.bovetstudent.fr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
