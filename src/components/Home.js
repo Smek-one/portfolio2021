@@ -27,7 +27,7 @@ export default function Home() {
         </animated.div>
 
         <p>
-          J'ai 35 ans, j'habite en Savoie entre Chambéry et Annecy. Je suis
+          J'ai 36 ans, j'habite en Savoie entre Chambéry et Annecy. Je suis
           actuellement en reconversion professionnelle en tant que développeur
           web full stack avec une spécialisation en PHP/Symfony. Depuis 6 mois,
           je suis une formation à distance parallèlement à mon emploi car je
